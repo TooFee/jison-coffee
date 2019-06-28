@@ -1,4 +1,7 @@
 {
+  "name": "jison-coffee",
+  "version": "0.0.1",
+  "main": "dist/bundle.js",
   "scripts": {
     "autod": "npx autod",
     "build": "npx gulp build",
